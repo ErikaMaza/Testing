@@ -1,3 +1,2 @@
-hello world!!!
+hi, friend!
 Bye-bye!!!
-Proverka 
