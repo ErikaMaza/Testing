@@ -1,3 +1,3 @@
 hello world!!!
-Good evening!
-Proverka 
+Bye-bye!!!
+Friend!
